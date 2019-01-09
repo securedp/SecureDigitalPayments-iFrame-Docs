@@ -1,4 +1,4 @@
-<a href='https://smartpay.curexe.com'><img src="https://smartpay.curexe.com/resources/img/logo.png" width="200" ></a>
+# Secure Digital Payments iFrame
 
 ## Overview
 
